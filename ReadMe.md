@@ -21,12 +21,13 @@ What Is ... **WILL NOT** talk about writing code, the purpose of the sessions is
 * Week 5: Circuits
 * Week 6: Conductive Ink
 * Week 7: InkerLinker
-* Week 8: Internet of Things
-* Week 9: Computer Vision
-* Week 10: Node Red
-* Week 11: HTTP and REST
-* Week 12: Twitter API
-* Week 13: Game Engines
-* Week 14: Open Sound Control
-* Week 15: Machine Learning
+* Week 8: Git
+* Week 9: Internet of Things
+* Week 10: Computer Vision
+* Week 11: Node Red
+* Week 12: HTTP and REST
+* Week 13: Twitter API
+* Week 14: Game Engines
+* Week 15: Open Sound Control
+* Week 16: Machine Learning
 
