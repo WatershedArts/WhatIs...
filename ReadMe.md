@@ -12,7 +12,7 @@ What Is ... aims to introduce residents to new areas that may be useful in their
 
 What Is ... **WILL NOT** talk about writing code, the purpose of the sessions is to introduce the principles and useful approaches to the topics.
 
-###Topics
+### Topics
 
 * [Week 1](./topics/projectionmapping.md): Projection Mapping
 * Week 2: Programming Languages and Environments
