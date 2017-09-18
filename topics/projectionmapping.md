@@ -7,7 +7,7 @@ Projection mapping is where everyday projectors are used to put visual content o
 Projection Mapping Central have a [wonderful illustrated history](
 http://projection-mapping.org/the-history-of-projection-mapping/) of projection mapping.
 
-Aside from these some of the earliest examples of projection mapping can be seen in the work of Czech theatre designer Josef Svoboda. 
+Aside from these some of the earliest examples of projection mapping can be seen in the work of Czech theatre designer [Josef Svoboda](https://youtu.be/mKVVy9iTaBs?t=286).
 
 ![Josef Svoboda](https://i.pinimg.com/originals/44/bd/cc/44bdcc5cfdef00c4b04e7bc527747651.jpg)
 
