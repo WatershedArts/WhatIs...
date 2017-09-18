@@ -14,20 +14,29 @@ What Is ... **WILL NOT** talk about writing code, the purpose of the sessions is
 
 ### Topics
 
-* [Week 1](./topics/projectionmapping.md): Projection Mapping
+* [Week 1: Projection Mapping](./topics/projectionmapping.md)
 * Week 2: Programming Languages and Environments
 * Week 3: Creative Programming Languages (Processing, openFrameworks, Cinder)
 * Week 4: Microcontrollers
 * Week 5: Circuits
 * Week 6: Conductive Ink
-* Week 7: InkerLinker
-* Week 8: Git
-* Week 9: Internet of Things
-* Week 10: Computer Vision
-* Week 11: Node Red
-* Week 12: HTTP and REST
-* Week 13: Twitter API
-* Week 14: Game Engines
-* Week 15: Open Sound Control
-* Week 16: Machine Learning
+* Week 7: **InkerLinker**
+* Week 8: Resources and Where to find things
+* Week 9: Git
+* Week 10: Internet of Things
+* Week 11: Computer Vision
+* Week 12: Node Red
+* Week 13: HTTP and REST
+* Week 14: Twitter API
+* Week 15: Game Engines
+* Week 16: Open Sound Control
+* Week 17: Machine Learning
+
+Future Topics:
+
+* LEDs
+* Sound Reactive Systems
+* Manufacturing Processes
+
+
 
