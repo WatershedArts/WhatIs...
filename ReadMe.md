@@ -17,10 +17,10 @@ What Is ... **WILL NOT** talk about writing code, the purpose of the sessions is
 * [Week 1: Projection Mapping](./topics/projectionmapping.md)
 * Week 2: Programming Languages and Environments
 * Week 3: Creative Programming Languages (Processing, openFrameworks, Cinder)
-* Week 4: Microcontrollers
+* Week 4: Microcontrollers and Raspberry Pi
 * Week 5: Circuits
 * Week 6: Conductive Ink
-* Week 7: **InkerLinker**
+* Week 7: InkerLinker
 * Week 8: Resources and Where to find things
 * Week 9: Git
 * Week 10: Internet of Things
@@ -35,6 +35,7 @@ What Is ... **WILL NOT** talk about writing code, the purpose of the sessions is
 Future Topics:
 
 * LEDs
+* Shaders
 * Sound Reactive Systems
 * Manufacturing Processes
 

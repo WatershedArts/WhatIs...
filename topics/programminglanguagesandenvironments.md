@@ -1,4 +1,4 @@
-What Is ... a Programming Language
+What Is ... a Programming Language?
 ===
 
 ## Summary
@@ -115,6 +115,34 @@ Language | Description
 **SQL** | Database Language.
 
 For more details on other languages check [wikipedia](https://en.wikipedia.org/wiki/List_of_programming_languages).
+
+## IDE
+
+An Integrated Development Environment usually refers to an application that handles writing, compiling and running the coded program.  
+
+For Example:
+
+* [XCode](https://developer.apple.com/xcode/)
+* [Microsoft Visual Studio](https://www.visualstudio.com/)
+* [NetBeans](https://netbeans.org/)
+* [Xamarin](https://www.xamarin.com/)
+* [Eclipse](https://www.eclipse.org/)
+* [Codeblocks](http://www.codeblocks.org/)
+* [QT Editor](https://www.qt.io/)
+
+These programmes make it easier for developer to create applications and systems.
+
+### Other Editors
+
+Whilst an IDE offers an integrated approach to coding. Sometimes programmers want to use a more lightweight editor that make it easier to edit code.
+
+For Example:
+
+* [Sublime](https://www.sublimetext.com/)
+* [Atom](https://atom.io/)
+* [Text Wrangler](https://itunes.apple.com/gb/app/textwrangler/id404010395?mt=12)
+* [BBEdit](https://www.barebones.com/products/bbedit/)
+* [Visual Studio Code](https://code.visualstudio.com/)
 
 ## Gotcha
 
