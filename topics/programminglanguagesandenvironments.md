@@ -5,11 +5,17 @@ What Is ... a Programming Language?
 
 A programming language is a constructed language that is readable by humans, but interuptritable by computers. Each language has its own vocabulary and set of grammatical rules that instruct computers to execute a set of defined instructions.
 
+![Generic](https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif)
+
 Each language has two main components it's *syntax* and it's *functions*. These are important as they can differ language to language.
 
 ### Why do we need programming languages?
 
-So a computer is a hive of electrical signals, which are almost always On / Off signals (or sequences of). It is these signals that make the machine perform tasks. If we were to write a word processing application using just these On / Off signals ... well it wouldnt be a pleasurable experience. This is where programming languages are useful, they allow us to abstract these On / Off signals into Human Readable language thereby simplifying the writing process.
+So a computer is a hive of electrical signals, which are almost always On / Off signals (or sequences of). 
+
+![Argh](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+
+It is these signals that make the machine perform tasks. If we were to write a word processing application using just these On / Off signals ... well it wouldnt be a pleasurable experience. This is where programming languages are useful, they allow us to abstract these On / Off signals into Human Readable language thereby simplifying the writing process.
 
 You can split languages into two levels: Low and High.
 The levels refer to the amount of abstraction from machine code. 
@@ -99,7 +105,7 @@ There are a alot of languages ...
 
 and it's not a competition, we should really ask **What language would be best for ...?**
 
-prSome of the more useful languages and a good place to start.
+Some of the more useful languages and a good place to start.
 
 Language | Description
 --- | --- 
@@ -154,3 +160,5 @@ HTML and CSS are not programming languages. They are markup languages.
 * [Programming Resource](http://programming-motherfucker.com/become.html)
 * [Codecademy](https://www.codecademy.com/) great place to learn new languages.
 * [Mashable](http://mashable.com/2014/01/21/learn-programming-languages/#OuiGgabTSaqB)
+* [openFrameworks](http://openframeworks.cc/)
+* [Processing](https://processing.org/)
