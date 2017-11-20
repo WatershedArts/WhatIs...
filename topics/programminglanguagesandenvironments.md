@@ -5,7 +5,7 @@ What Is ... a Programming Language?
 
 A programming language is a constructed language that is readable by humans, but interuptritable by computers. Each language has its own vocabulary and set of grammatical rules that instruct computers to execute a set of defined instructions.
 
-![Generic](https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif)
+![Generic](https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif 'generic')
 
 Each language has two main components it's *syntax* and it's *functions*. These are important as they can differ language to language.
 
@@ -13,7 +13,7 @@ Each language has two main components it's *syntax* and it's *functions*. These 
 
 So a computer is a hive of electrical signals, which are almost always On / Off signals (or sequences of). 
 
-![Argh](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+![moss](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif 'moss')
 
 It is these signals that make the machine perform tasks. If we were to write a word processing application using just these On / Off signals ... well it wouldnt be a pleasurable experience. This is where programming languages are useful, they allow us to abstract these On / Off signals into Human Readable language thereby simplifying the writing process.
 
