@@ -16,7 +16,7 @@ What Is ... **WILL NOT** talk about writing code, the purpose of the sessions is
 
 * [Week 1: Projection Mapping](./topics/projectionmapping.md)
 * [Week 2: Programming Languages and Environments](./topics/programminglanguagesandenvironments.md)
-* Week 3: Game Engines
+* [Week 3: Game Engines](./topics/gameengine.md)
 * Week 4: Microcontrollers and Raspberry Pi's
 * Week 5: Conductive Ink and InkerLinker
 * Week 6: Resources and Where to find things
