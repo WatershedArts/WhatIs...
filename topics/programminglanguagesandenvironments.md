@@ -122,6 +122,12 @@ Language | Description
 
 For more details on other languages check [wikipedia](https://en.wikipedia.org/wiki/List_of_programming_languages).
 
+### Update
+Thanks to [Mike Delgado](https://twitter.com/mikedelgado/status/937335285855133697) for sharing this awesome image.
+
+![What Language](../images/WhichProgramming.jpg 'What Language')
+
+
 ## IDE
 
 An Integrated Development Environment usually refers to an application that handles writing, compiling and running the coded program.  
@@ -163,3 +169,4 @@ HTML and CSS are not programming languages. They are markup languages.
 * [openFrameworks](http://openframeworks.cc/)
 * [Processing](https://processing.org/)
 * [Code Club])(Bristol Code Club TBD)
+* [Free Code Camp](https://medium.freecodecamp.org/)
