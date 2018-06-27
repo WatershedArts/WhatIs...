@@ -18,23 +18,28 @@ What Is ... **WILL NOT** talk about writing code, the purpose of the sessions is
 * [Week 2: Programming Languages and Environments](./topics/programminglanguagesandenvironments.md)
 * [Week 3: Game Engines](./topics/gameengine.md)
 * Week 4: Microcontrollers and Raspberry Pi's
-* Week 5: Conductive Ink and InkerLinker
-* Week 6: Resources and Where to find things
-* Week 7: Git
-* Week 8: Internet of Things
-* Week 9: Computer Vision
-* Week 10: Node Red
-* Week 11: HTTP and REST
-* Week 12: Twitter API
-* Week 13: Open Sound Control
-* Week 14: Machine Learning
-* Week 15: Shaders
 
-Future Topics:
+### Upcoming Topics
 
+These are in no particular order
+
+* Conductive Ink 
+* Git 
+* Internet of Things 
+* Computer Vision
+* Design Patterns
+* NodeJS
+* Heroku
+* Azure
+* HTTP and REST
+* Machine Learning
+* Shaders
 * LEDs
-* Sound Reactive Systems
 * Manufacturing Processes
-
-
-
+* Public-key Encryption
+* ReactJS
+* Electron
+* openFrameworks
+* Processing 
+* iOS Development
+* System Architecture
