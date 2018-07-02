@@ -18,6 +18,7 @@ What Is ... **WILL NOT** talk about writing code, the purpose of the sessions is
 * [Week 2: Programming Languages and Environments](./topics/programminglanguagesandenvironments.md)
 * [Week 3: Game Engines](./topics/gameengine.md)
 * Week 4: Microcontrollers and Raspberry Pi's
+* [Week 5: Computer Vision](./topics/computervision.md)
 
 ### Upcoming Topics
 
